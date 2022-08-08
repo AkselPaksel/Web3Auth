@@ -1,0 +1,5 @@
+https://github.com/garbles-labs/Solana.Unity-SDK.git
+
+https://github.com/garbles-labs/Solana.Unity-Core
+https://github.com/garbles-labs/Solana.Unity-SDK/blob/main/Runtime/codebase/WalletBaseComponent.cs
+https://github.com/garbles-labs/Solana.Unity-SDK
